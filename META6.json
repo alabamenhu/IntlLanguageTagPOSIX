@@ -1,0 +1,19 @@
+{
+  "name": "Intl::LanguageTag::POSIX",
+  "description": "A simple module implementing the POSIX language tag standard",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Matthew Stephen Stuckwisch"
+  ],
+  "auth": "github:alabamenhu",
+  "depends": ["Intl::LanguageTaggish"],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "Intl::LanguageTag::POSIX": "lib/Intl/LanguageTag/POSIX.pm6"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "source-url": "git://github.com/alabamenhu/IntlLanguageTagPOSIX.git"
+}
